@@ -6,3 +6,7 @@ int main()
  printf("%d",c);
  return 0;
 }
+
+
+
+sample 1 , addition project
